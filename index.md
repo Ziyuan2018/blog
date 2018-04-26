@@ -1,37 +1,48 @@
-## Welcome to Ziyuan Feng's GitHub Pages
+## 2018-04-19，星期四
+  学习使用简单的marikdown标记，用于以后再Github上面写日志。
 
-You can use the [editor on GitHub](https://github.com/Ziyuan2018/blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### ① markdown的内容标记
+    比如“=”上面的内容会成为大标题，“-”上面的内容会成为副标题。
+    比如“#”的个数+“TAB”决定标题的级数，前两级会有下划线。
+    
+---
 
-### Markdown
+#### ② markdown的内容标记
+    两个“TAB”再接内容会有单行文本。
+    同时每行内容前都添加两个“TAB”即为多行文本。
+    
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### ③ markdown的分层标记
+    测试高亮内容，使用来表示高亮内容。
+    可以通过“*”+“space”做原点符。
+    
+---
 
-```markdown
-Syntax highlighted code block
+#### ④ markdown的符号标记
+    可以“TAB”+“*”和空格可以添加多级原点符。
+    可以通过“*”+“space”做原点符。
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+* 测试：显示一级原点符
+    * 测试：显示二级原点符
+      * 测试：显示三级原点符
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+#### ⑤ markdown的缩进标记
+    可以通过“<<<”来达到缩进效果。
+    从一级到多级按符号的个数来决定。
+    
+---
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ziyuan2018/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+< 手心的蔷薇
+<< 刺伤而不自觉 
+<<< 你值得被疼爱
+<<<< 有我在什么都无畏
+    
+---
+    
